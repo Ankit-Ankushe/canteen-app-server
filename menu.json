@@ -2,36 +2,49 @@
   {
     "id": 1,
     "name": "Cucumber Salad",
-    "imageUrl": "",
+    "imageUrl": "https://www.desibaniye.com/wp-content/uploads/2022/02/Cucumber-Salad.jpg",
     "rating": 3,
-    "price": "200"
+    "price": "200",
+    "shortDescription": "Refreshing cucumber salad with tangy dressing.",
+    "longDescription": "Crisp cucumbers, juicy tomatoes, and zesty onions tossed in a light vinaigrette dressing, perfect for a refreshing and healthy side dish."
   },
   {
     "id": 2,
-    "name": "Chicken Sandwich",
-    "imageUrl": "",
+    "name": "Veg Sandwich",
+    "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Summer-Veggie-Sandwiches_exps48257_SD1785605D15A_RMS.jpg?fit=700%2C1024",
     "rating": 4,
-    "price": "250"
+    "price": "250",
+    "shortDescription": "Hearty veg sandwich with savory spreads.",
+    "longDescription": "Colorful vegetables layered between soft bread slices, enhanced with savory spreads, offering a satisfying meal or a delightful snack."
+
   },
   {
     "id": 3,
     "name": "Vegetable Pizza",
-    "imageUrl": "",
+    "imageUrl": "https://i0.wp.com/www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-side-view-out-of-oven.png?w=1200&ssl=1",
     "rating": 4.5,
-    "price": "300"
+    "price": "300",
+    "shortDescription": "Classic pizza with fresh veggies and cheese.",
+    "longDescription": "Crispy crust topped with tangy tomato sauce, fresh vegetables, and melted cheese, delivering a burst of flavor in every bite, a favorite for pizza lovers."
+
   },
   {
     "id": 4,
     "name": "French Fries",
-    "imageUrl": "",
+    "imageUrl": "https://static.fanpage.it/wp-content/uploads/sites/22/2020/09/iStock-618214356.jpg",
     "rating": 3.5,
-    "price": "150"
+    "price": "150",
+    "shortDescription": "Crispy golden fries, perfectly seasoned.",
+    "longDescription": "Golden fries, crispy outside and fluffy inside, seasoned to perfection for a satisfying snack or a delicious side to any meal."
+
   },
   {
     "id": 5,
     "name": "Pasta",
-    "imageUrl": "",
+    "imageUrl": "https://thishealthytable.com/wp-content/uploads/2020/12/veggie-pasta-recipe-3-of-4-720x720.jpg",
     "rating": 4,
-    "price": "280"
+    "price": "280",
+    "shortDescription": "Comforting pasta in flavorful sauce.",
+    "longDescription": "Al dente noodles coated in a rich and flavorful sauce, complemented with fresh vegetables and aromatic herbs, offering a cozy and delightful dining experience."
   }
 ]
