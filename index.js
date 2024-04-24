@@ -67,7 +67,7 @@ app.post('/login', (req, res) => {
   readUsersFromFile(users => {
     const foundUser = users.find(user => user.username === username && user.password === password);
     if (foundUser) {
-      res.send({ message: 'Login successful!', username: foundUser.username, userid: foundUser.id });
+      res.send({ message: 'Login successful!', userName: foundUser.username, userId: foundUser.userId });
     } else {
       res.status(401).send({ message:'Invalid username or password'});
     }
