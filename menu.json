@@ -1,50 +1,174 @@
 [
   {
     "id": 1,
-    "name": "Cucumber Salad",
-    "imageUrl": "https://www.desibaniye.com/wp-content/uploads/2022/02/Cucumber-Salad.jpg",
+    "name": "Sandwich",
+    "category":"Breakfast",
+    "imageUrl": "https://i.pinimg.com/originals/01/89/66/01896649d99e3d76c7c6f365d7c50ac0.png",
     "rating": 3,
-    "price": "200",
-    "shortDescription": "Refreshing cucumber salad with tangy dressing.",
-    "longDescription": "Crisp cucumbers, juicy tomatoes, and zesty onions tossed in a light vinaigrette dressing, perfect for a refreshing and healthy side dish."
+    "price": "25",
+    "shortDescription": "Fresh vegetable sandwich with tangy chutney."
   },
   {
     "id": 2,
-    "name": "Veg Sandwich",
-    "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Summer-Veggie-Sandwiches_exps48257_SD1785605D15A_RMS.jpg?fit=700%2C1024",
+    "name": "Bread Pakoda",
+    "category":"Breakfast",
+    "imageUrl": "https://i.ytimg.com/vi/3DV2y8tNLso/maxresdefault.jpg",
     "rating": 4,
-    "price": "250",
-    "shortDescription": "Hearty veg sandwich with savory spreads.",
-    "longDescription": "Colorful vegetables layered between soft bread slices, enhanced with savory spreads, offering a satisfying meal or a delightful snack."
-
+    "price": "20",
+    "shortDescription": "Spiced potato-filled bread, deep-fried."
   },
   {
     "id": 3,
-    "name": "Vegetable Pizza",
-    "imageUrl": "https://i0.wp.com/www.thursdaynightpizza.com/wp-content/uploads/2022/06/veggie-pizza-side-view-out-of-oven.png?w=1200&ssl=1",
+    "name": "Salads",
+    "category":"Breakfast",
+    "imageUrl": "https://1.bp.blogspot.com/-C2EARd-OkVM/YH7RjOAIm6I/AAAAAAAADqw/5jVOIVRDLs8jFTT4oY7XmNPgyOf_-f5VwCLcBGAsYHQ/s2048/healthy-salad.jpg",
     "rating": 4.5,
     "price": "300",
-    "shortDescription": "Classic pizza with fresh veggies and cheese.",
-    "longDescription": "Crispy crust topped with tangy tomato sauce, fresh vegetables, and melted cheese, delivering a burst of flavor in every bite, a favorite for pizza lovers."
-
+    "shortDescription": "Salads with fresh veggies."
   },
   {
     "id": 4,
-    "name": "French Fries",
-    "imageUrl": "https://static.fanpage.it/wp-content/uploads/sites/22/2020/09/iStock-618214356.jpg",
+    "name": "Healthy Burger",
+    "category":"Breakfast",
+    "imageUrl": "https://www.abbeyskitchen.com/wp-content/uploads/2016/05/California-Turkey-Burgers-5.jpg",
     "rating": 3.5,
-    "price": "150",
-    "shortDescription": "Crispy golden fries, perfectly seasoned.",
-    "longDescription": "Golden fries, crispy outside and fluffy inside, seasoned to perfection for a satisfying snack or a delicious side to any meal."
-
+    "price": "25",
+    "shortDescription": "Grilled veggie patty in whole wheat bun."
   },
   {
     "id": 5,
-    "name": "Pasta",
-    "imageUrl": "https://thishealthytable.com/wp-content/uploads/2020/12/veggie-pasta-recipe-3-of-4-720x720.jpg",
+    "name": "Samosa",
+    "category":"Breakfast",
+    "imageUrl": "https://foodiewish.com/wp-content/uploads/2020/03/Samosa-foodiewish-768x432.jpg",
+    "rating": 3.5,
+    "price": "20",
+    "shortDescription": "Crispy pastry filled with spiced potatoes."
+  },
+  {
+    "id": 6,
+    "name": "Healthy Pasta",
+    "category":"Breakfast",
+    "imageUrl": "https://i1.wp.com/hedihearts.com/wp-content/uploads/2015/06/IMG_4628.jpg",
     "rating": 4,
     "price": "280",
-    "shortDescription": "Comforting pasta in flavorful sauce.",
-    "longDescription": "Al dente noodles coated in a rich and flavorful sauce, complemented with fresh vegetables and aromatic herbs, offering a cozy and delightful dining experience."
+    "shortDescription": "Whole wheat pasta with veggie sauce."
+  },
+  {
+    "id": 7,
+    "name": "Rajma & Rice",
+    "category":"Lunch",
+    "imageUrl": "https://www.foodbylalita.com/wp-content/uploads/2021/05/aca0cc00-aa90-4bf3-8c39-f39d67859d3f.jpeg",
+    "rating": 4,
+    "price": "45",
+    "shortDescription": "Kidney beans curry with steamed rice."
+  },
+  {
+    "id": 8,
+    "name": "Fried Rice",
+    "category":"Lunch",
+    "imageUrl": "https://recipeland.com/images/r/10582/a026136f362d7eca9af6_1024.jpg",
+    "rating": 4,
+    "price": "45",
+    "shortDescription": "Stir-fried rice with mixed veggies."
+  },
+  {
+    "id": 9,
+    "name": "Chole & Puri",
+    "category":"Lunch",
+    "imageUrl": "https://www.mithaiwaalas.com/wp-content/uploads/2021/03/CHOLE-PURI.jpg",
+    "rating": 4,
+    "price": "45",
+    "shortDescription": "Chickpea curry with fried bread."
+  },
+  {
+    "id": 10,
+    "name": "Aloo Parathe",
+    "category":"Lunch",
+    "imageUrl": "https://recipes.timesofindia.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
+    "rating": 4,
+    "price": "30",
+    "shortDescription": "Whole wheat flatbread stuffed with potatoes."
+  },
+  {
+    "id": 11,
+    "name": "Besan Chilla",
+    "category":"Lunch",
+    "imageUrl": "https://www.indianveggiedelight.com/wp-content/uploads/2023/02/besan-chilla-recipe.jpg",
+    "rating": 4,
+    "price": "30",
+    "shortDescription": "Savory chickpea flour pancake."
+  },
+  {
+    "id": 12,
+    "name": "South Indian Cuisine",
+    "category":"Lunch",
+    "imageUrl": "https://blog.travelkhana.com/food/wp-content/uploads/sites/5/2017/04/south-indian.jpg",
+    "rating": 4,
+    "price": "50",
+    "shortDescription": "Assorted South Indian dishes."
+  },
+  {
+    "id": 13,
+    "name": "Milkshakes",
+    "category":"Beverages",
+    "imageUrl": "https://farm3.staticflickr.com/2935/14204022298_48b208374a_o.jpg",
+    "rating": 4,
+    "price": "30",
+    "shortDescription": "Creamy milk drinks in various flavors."
+  },
+  {
+    "id": 14,
+    "name": "Fruit Juice",
+    "category":"Beverages",
+    "imageUrl": "https://static.toiimg.com/photo/msid-69409726/69409726.jpg?1547795",
+    "rating": 4,
+    "price": "25",
+    "shortDescription": "Freshly squeezed fruit juices."
+  },
+  {
+    "id": 15,
+    "name": "Tea",
+    "category":"Beverages",
+    "imageUrl": "https://www.blendwithspices.com/wp-content/uploads/2020/07/adrakchairecipe.jpg",
+    "rating": 4,
+    "price": "15",
+    "shortDescription": "Traditional Indian tea."
+  },
+  {
+    "id": 16,
+    "name": "Coffee",
+    "category":"Beverages",
+    "imageUrl": "https://www.asiaone.com/sites/default/files/original_images/Dec2019/48617922_l%20(1).jpg",
+    "rating": 4,
+    "price": "20",
+    "shortDescription": " Freshly brewed coffee."
+  },
+  {
+    "id": 17,
+    "name": "Pastries",
+    "category":"Dessert",
+    "imageUrl": "https://i.ytimg.com/vi/uaBbYlNgQFg/maxresdefault.jpg",
+    "rating": 4,
+    "price": "30",
+    "shortDescription": "Assorted sweet pastries."
+  },
+  {
+    "id": 18,
+    "name": "Ice Cream",
+    "category":"Dessert",
+    "imageUrl": "https://3.bp.blogspot.com/-XLK136OWj04/WcK30JzFPuI/AAAAAAAA8D0/xCdByKzcPeg1Srzy4PExENFsGGCtX5-qwCLcBGAs/s1600/Scoops-of-ice-cream-in-a-bowl.jpg",
+    "rating": 4,
+    "price": "Acc to MRP",
+    "shortDescription": "Creamy frozen desserts."
+  },
+  {
+    "id": 19,
+    "name": "Muffins",
+    "category":"Dessert",
+    "imageUrl": "https://i0.wp.com/themayakitchen.com/wp-content/uploads/2019/03/Chocolate-Chip-Muffins.jpg?fit=1080%2C1080&ssl=1",
+    "rating": 4,
+    "price": "25",
+    "shortDescription": "Soft and fluffy baked muffins."
   }
+
 ]
