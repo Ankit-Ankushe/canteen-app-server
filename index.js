@@ -98,8 +98,8 @@ app.post('/placeOrder', (req, res) => {
         // Create a new order object
         const newOrder = {
             userId: userId,
-            items: items,
-            timestamp: new Date().toISOString()
+            timestamp: new Date().toISOString(),
+            items: items
         };
 
         // Append the new order to the orders list
@@ -109,10 +109,10 @@ app.post('/placeOrder', (req, res) => {
         fs.writeFile('ordered.json', JSON.stringify(orders, null, 2), err => {
             if (err) {
                 console.error('Error writing ordered.json:', err);
-                return res.status(500).send('Internal Server Error');
+                return res.status(500).send({ message:'Internal Server Error'});
             }
             console.log('Order placed successfully:', newOrder);
-            res.send('Order placed successfully!');
+            res.send({ message:'Order placed successfully!'});
         });
     });
 });
