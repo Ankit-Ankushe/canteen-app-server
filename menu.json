@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Sandwich",
-    "category":"Breakfast",
+    "category": "Breakfast",
     "imageUrl": "https://i.pinimg.com/originals/01/89/66/01896649d99e3d76c7c6f365d7c50ac0.png",
     "rating": 3,
     "price": "25",
@@ -10,17 +10,17 @@
   },
   {
     "id": 2,
-    "name": "Bread Pakoda",
-    "category":"Breakfast",
-    "imageUrl": "https://i.ytimg.com/vi/3DV2y8tNLso/maxresdefault.jpg",
+    "name": "Poha",
+    "category": "Breakfast",
+    "imageUrl": "https://slurrp.club/wp-content/uploads/2019/05/DSC_0935.jpg",
     "rating": 4,
     "price": "20",
-    "shortDescription": "Spiced potato-filled bread, deep-fried."
+    "shortDescription": "Flavorful Indian flattened rice with spices."
   },
   {
     "id": 3,
     "name": "Salads",
-    "category":"Breakfast",
+    "category": "Breakfast",
     "imageUrl": "https://1.bp.blogspot.com/-C2EARd-OkVM/YH7RjOAIm6I/AAAAAAAADqw/5jVOIVRDLs8jFTT4oY7XmNPgyOf_-f5VwCLcBGAsYHQ/s2048/healthy-salad.jpg",
     "rating": 4.5,
     "price": "30",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Healthy Burger",
-    "category":"Breakfast",
+    "category": "Breakfast",
     "imageUrl": "https://www.abbeyskitchen.com/wp-content/uploads/2016/05/California-Turkey-Burgers-5.jpg",
     "rating": 3.5,
     "price": "25",
@@ -37,17 +37,17 @@
   },
   {
     "id": 5,
-    "name": "Samosa",
-    "category":"Breakfast",
+    "name": "Baked samosa",
+    "category": "Breakfast",
     "imageUrl": "https://foodiewish.com/wp-content/uploads/2020/03/Samosa-foodiewish-768x432.jpg",
     "rating": 3.5,
     "price": "20",
-    "shortDescription": "Crispy pastry filled with spiced potatoes."
+    "shortDescription": "Crispy pastry filled with spiced potatoes.(Baked)"
   },
   {
     "id": 6,
     "name": "Healthy Pasta",
-    "category":"Breakfast",
+    "category": "Breakfast",
     "imageUrl": "https://i1.wp.com/hedihearts.com/wp-content/uploads/2015/06/IMG_4628.jpg",
     "rating": 4,
     "price": "40",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Rajma & Rice",
-    "category":"Lunch",
+    "category": "Lunch",
     "imageUrl": "https://www.foodbylalita.com/wp-content/uploads/2021/05/aca0cc00-aa90-4bf3-8c39-f39d67859d3f.jpeg",
     "rating": 4,
     "price": "45",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "Fried Rice",
-    "category":"Lunch",
+    "category": "Lunch",
     "imageUrl": "https://recipeland.com/images/r/10582/a026136f362d7eca9af6_1024.jpg",
     "rating": 4,
     "price": "45",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Chole & Puri",
-    "category":"Lunch",
+    "category": "Lunch",
     "imageUrl": "https://www.mithaiwaalas.com/wp-content/uploads/2021/03/CHOLE-PURI.jpg",
     "rating": 4,
     "price": "45",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "Aloo Parathe",
-    "category":"Lunch",
+    "category": "Lunch",
     "imageUrl": "https://recipes.timesofindia.com/thumb/53109843.cms?imgsize=244340&width=800&height=800",
     "rating": 4,
     "price": "30",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "Besan Chilla",
-    "category":"Lunch",
+    "category": "Lunch",
     "imageUrl": "https://www.indianveggiedelight.com/wp-content/uploads/2023/02/besan-chilla-recipe.jpg",
     "rating": 4,
     "price": "30",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "name": "South Indian Cuisine",
-    "category":"Lunch",
+    "category": "Lunch",
     "imageUrl": "https://blog.travelkhana.com/food/wp-content/uploads/sites/5/2017/04/south-indian.jpg",
     "rating": 4,
     "price": "50",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "Milkshakes",
-    "category":"Beverages",
+    "category": "Beverages",
     "imageUrl": "https://farm3.staticflickr.com/2935/14204022298_48b208374a_o.jpg",
     "rating": 4,
     "price": "30",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "name": "Fruit Juice",
-    "category":"Beverages",
+    "category": "Beverages",
     "imageUrl": "https://static.toiimg.com/photo/msid-69409726/69409726.jpg?1547795",
     "rating": 4,
     "price": "25",
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "name": "Tea",
-    "category":"Beverages",
+    "category": "Beverages",
     "imageUrl": "https://www.blendwithspices.com/wp-content/uploads/2020/07/adrakchairecipe.jpg",
     "rating": 4,
     "price": "15",
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "name": "Coffee",
-    "category":"Beverages",
+    "category": "Beverages",
     "imageUrl": "https://www.asiaone.com/sites/default/files/original_images/Dec2019/48617922_l%20(1).jpg",
     "rating": 4,
     "price": "20",
@@ -146,7 +146,7 @@
   {
     "id": 17,
     "name": "Pastries",
-    "category":"Dessert",
+    "category": "Dessert",
     "imageUrl": "https://i.ytimg.com/vi/uaBbYlNgQFg/maxresdefault.jpg",
     "rating": 4,
     "price": "30",
@@ -155,7 +155,7 @@
   {
     "id": 18,
     "name": "Ice Cream",
-    "category":"Dessert",
+    "category": "Dessert",
     "imageUrl": "https://3.bp.blogspot.com/-XLK136OWj04/WcK30JzFPuI/AAAAAAAA8D0/xCdByKzcPeg1Srzy4PExENFsGGCtX5-qwCLcBGAs/s1600/Scoops-of-ice-cream-in-a-bowl.jpg",
     "rating": 4,
     "price": "20",
@@ -164,11 +164,10 @@
   {
     "id": 19,
     "name": "Muffins",
-    "category":"Dessert",
+    "category": "Dessert",
     "imageUrl": "https://i0.wp.com/themayakitchen.com/wp-content/uploads/2019/03/Chocolate-Chip-Muffins.jpg?fit=1080%2C1080&ssl=1",
     "rating": 4,
     "price": "25",
     "shortDescription": "Soft and fluffy baked muffins."
   }
-
 ]
